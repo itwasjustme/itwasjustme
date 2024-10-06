@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @itwasjustme
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Go/Golang
+- 🌱 I’m currently learning Python
 - 📫 How to reach me reachprayush@gmail.com
-- ⚡ 1st Year University Student
+- ⚡ 2nd Year University Student
 
 <!---
 itwasjustme/itwasjustme is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
