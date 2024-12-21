@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @itwasjustme
 - 👀 I’m interested in Cybersecurity
-- 🌱 I’m currently learning Python
+- 🌱 I’m currently learning Php
 - 📫 How to reach me reachprayush@gmail.com
 - ⚡ 2nd Year University Student
 
